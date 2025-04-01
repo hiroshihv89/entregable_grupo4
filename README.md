@@ -65,5 +65,7 @@ Franklin Joseph Castro Chocca
 Jean Cesar Robles Castro
 
 ---
-**¡Gracias por revisar nuestro trabajo!** 🎯
+## Instructor
+
+Saúl Sneider Chávez Chico
 
